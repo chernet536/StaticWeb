@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chernet536/Finetech.git/static/css/main.e8882a2c.css",
+    "main.js": "/chernet536/Finetech.git/static/js/main.ce10620a.js",
+    "static/media/singleee.jpg": "/chernet536/Finetech.git/static/media/singleee.55229a9f4cf52a73c13d.jpg",
+    "static/media/tech.jpg": "/chernet536/Finetech.git/static/media/tech.c164cbdff351f382da46.jpg",
+    "static/media/triple.png": "/chernet536/Finetech.git/static/media/triple.e948586ec485d1f12762.png",
+    "static/media/doubleee.png": "/chernet536/Finetech.git/static/media/doubleee.73cdd7d17e8661570551.png",
+    "index.html": "/chernet536/Finetech.git/index.html",
+    "main.e8882a2c.css.map": "/chernet536/Finetech.git/static/css/main.e8882a2c.css.map",
+    "main.ce10620a.js.map": "/chernet536/Finetech.git/static/js/main.ce10620a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8882a2c.css",
+    "static/js/main.ce10620a.js"
+  ]
+}
